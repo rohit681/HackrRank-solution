@@ -1,1 +1,1 @@
-HackerRank solutions of pyton java and Problem solving (Data structurs snd algorithm)
+HackerRank solutions of pyhton java and Problem solving (Data structurs snd algorithm)
