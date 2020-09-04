@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class StairCase{
 
     // Complete the staircase function below.
     static void staircase(int n) {
